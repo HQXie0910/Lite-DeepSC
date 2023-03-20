@@ -7,3 +7,5 @@ This is the implementation of L-DeepSC
 `main_finetune.py` is the file to finetune the model to recover the accuracy.
 
 `LS_refined` contains the files to refine the CSI obtained from LS channel estimation.
+
+`transformer_constellation` is Transformer Model.
